@@ -1,0 +1,3 @@
+D:/Dictionary-Map/cmake-build-debug/CMakeFiles/Dictionary_Map.dir
+D:/Dictionary-Map/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Dictionary-Map/cmake-build-debug/CMakeFiles/rebuild_cache.dir
